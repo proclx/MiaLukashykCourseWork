@@ -1,0 +1,5 @@
+Cone h = 25; r = 20; center = (0; 0) Volume 10471.975511966
+Cone h = 10; r = 25; center = (0; 0) Volume 6544.98469497874
+Cone h = 15; r = 10; center = (0; 0) Volume 1570.7963267949
+Cone h = 5; r = 15; center = (0; 0) Volume 1178.09724509617
+Cone h = 20; r = 5; center = (0; 0) Volume 523.598775598299
